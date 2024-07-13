@@ -1,2 +1,2 @@
 # paswsome
-gogs vet's website
+Dogs vet's website
